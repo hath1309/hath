@@ -2,7 +2,7 @@
 - Dự án liên miên, **dự án mới nhưng chúng ta toàn dùng công nghệ đã từng làm** => Lối mòn ko phát triển được gì nhiều, code dự án mới với cách code cũ rồi cũng chán
 - Công nghệ mới phụ thuộc vào đội nghiên cứu + cũng ko phải lúc nào cũng ra cái mới để mình học được
 - Xu thế bên ngoài rất phát triển, dù làm product hay outsource thì việc biết thêm nhiều công nghệ, hay biết các partern tất nhiên là tốt hơn.
-- Khi tự nghiên cứu, mọi người chắc chắn đôi lúc sẽ ko biết sâu đến đâu là đủ, chứ chạy đc sample code thôi thì ez. 
+- Khi tự nghiên cứu, mọi người chắc chắn đôi lúc sẽ ko biết sâu đến đâu là đủ, chứ chỉ tiềm hiểu rồi chạy đc sample code thôi thì ez. 
 - *Ví dụ như kafka, mình dùng nhưng chưa làm chủ được hoàn toàn. Các cơ chế partition, các thông số setup là cũng dùng lại của bdrd chứ mình cũng ko phải nghiên cứu gì. Ngoài ra việc failover với kafka cũng tương đối phức tạp và mình mới hiểu và chưa làm chủ được nó hoàn toàn, nên có nhiều rủi ro tiềm ẩn.*
 
 ---
@@ -37,8 +37,10 @@
 - Bớt chán
 ---
 # Triển khai
-- Đầu tiên là ae có đồng ý không đã, ok thì tính tiếp
-- Nếu ok thì trc mắt Long với Dũng chủ động làm admin của team
+- Đầu tiên là ae có thấy hợp lý với muốn làm ko, vì làm là thêm việc.
+- Nếu ok thì nhân sự hiện tại thì Dũng với Long.
 - Thời gian: Trước mắt đang bận sắp xong với KRX, sau KRX mình sẽ triển khai, chủ đề thì có thể chọn ngay từ bây giờ.
+- Cần thì có thể chi mua khóa học, rồi thu hoạch từ khóa học đó luôn, xèng thì cân nhắc hehe.
+- 1 năm làm 1, 2 chủ đề áp dụng thôi, ít nhưng phải kĩ.
 
   
